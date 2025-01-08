@@ -10,12 +10,12 @@ Flutter를 기반으로 사용자가 로봇의 상태를 모니터링하고 제�
 <br>
 
 ## 📱 스크린샷
-<img src="https://github.com/user-attachments/assets/1bfbe273-88f8-4ea7-8832-615c858152ab" width="40%"/>
-<img src="https://github.com/user-attachments/assets/e12a5e39-dcec-40f6-836e-42a30f0041c6" width="40%"/>
-<img src="https://github.com/user-attachments/assets/90b257bd-ac2e-4df4-bc38-45377af19b60" width="40%"/>
-<img src="https://github.com/user-attachments/assets/7a44a9d2-cdce-4e30-9012-61fb6ac84ca2" width="40%"/>
-<img src="https://github.com/user-attachments/assets/5decf1b7-384e-4729-bc73-2877ee0f603e" width="40%"/>
-<img src="https://github.com/user-attachments/assets/118fc0e2-639c-4362-88ca-ff3ba18094fa" width="40%"/>
+<img src="https://github.com/user-attachments/assets/6e64b470-940c-4bdc-9315-38d465d2b2f4" width="40%"/>
+<img src="https://github.com/user-attachments/assets/1990ab91-522c-4a43-aebc-f01f2a28c445" width="40%"/>
+<img src="https://github.com/user-attachments/assets/117870e8-1f01-4021-a17b-0df091606d63" width="40%"/>
+<img src="https://github.com/user-attachments/assets/76692687-f1d6-4ca3-895e-c26e51843150" width="40%"/>
+<img src="https://github.com/user-attachments/assets/28c0d908-6d6d-47ba-be46-15d56e4bf127" width="40%"/>
+<img src="https://github.com/user-attachments/assets/19f9c39d-c916-4b3a-a8de-0c2fddb2c86f" width="40%"/>
 
 <br>
 
